@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="yonu_blue">#2563EB</color>
+    <color name="yonu_blue_dark">#1E3A8A</color>
+    <color name="yonu_blue_light">#3B82F6</color>
+    <color name="bg_light">#F5F7FB</color>
+    <color name="bg_dark">#0F172A</color>
+</resources>
+

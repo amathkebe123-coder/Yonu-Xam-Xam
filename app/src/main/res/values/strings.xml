@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yonu Xam Xam</string>
+    <string name="soon_available">Bientôt disponible</string>
+    <string name="search_placeholder">Rechercher un cours, une leçon, un exercice</string>
+    <string name="clear_search">Effacer la recherche</string>
+    <string name="no_search_results">Aucun résultat trouvé pour votre recherche</string>
+    <string name="no_chapters_available">Aucun chapitre disponible</string>
+    <string name="back">Retour</string>
+    <string name="chapters_list_header">Programme et chapitres</string>
+    <string name="retry">Réessayer</string>
+    <string name="error_loading_data">Une erreur est survenue lors du chargement des données.</string>
+    
+    <!-- Sections -->
+    <string name="greeting_format">Salut, %1$s 👋</string>
+    <string name="app_class_format">%1$s • %2$s</string>
+    <string name="matieres_title">Matières</string>
+    <string name="chapters_title_format">Chapitres de %s</string>
+    <string name="continue_title">Continuer</string>
+    <string name="teachers_title">Vos professeurs</string>
+    <string name="see_all">Voir tout</string>
+    <string name="suggested_courses_title">Suggestions de cours</string>
+    <string name="bac_blancs_title">Bac Blancs</string>
+    <string name="start">Commencer</string>
+
+    <!-- Bottom sheet choices -->
+    <string name="choice_written_course">Cours écrit</string>
+    <string name="choice_videos">Vidéos</string>
+    <string name="choice_exercises">Exercices</string>
+    <string name="choice_quiz">Quiz</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Accueil</string>
+    <string name="nav_courses">Cours</string>
+    <string name="nav_exercises">Exercices</string>
+    <string name="nav_chat">Chat</string>
+    <string name="nav_profile">Profil</string>
+</resources>
+
